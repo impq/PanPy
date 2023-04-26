@@ -1,1 +1,3 @@
-unfinished api wrapper for panelyz
+```
+pip install -U git+https://github.com/impq/PanPy/
+```

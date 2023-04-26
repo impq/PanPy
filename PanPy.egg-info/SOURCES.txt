@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+PanPy.egg-info/PKG-INFO
+PanPy.egg-info/SOURCES.txt
+PanPy.egg-info/dependency_links.txt
+PanPy.egg-info/requires.txt
+PanPy.egg-info/top_level.txt
+panelyz/panel.py

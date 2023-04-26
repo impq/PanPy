@@ -1,2 +1,1 @@
-# PanPy
-An advanced API wrapper for a social media botting panel
+unfinished api wrapper for panelyz
